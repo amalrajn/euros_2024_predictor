@@ -15,3 +15,12 @@ Group D: ['France', 'Poland', 'Netherlands', 'Austria'] <br>
 Group E: ['Belgium', 'Ukraine', 'Slovakia', 'Romania'] <br>
 Group F: ['Portugal', 'Czech Republic', 'Türkiye', 'Georgia'] <br> </p>
 
+<p><b>Knockout Round Results</b><br>
+We decided to display the knockout results in bracket format. Here are the left and right sides of the bracket.
+<img src="https://github.com/ayannair/euros_2024_predictor/assets/148826074/4a976bef-9503-454a-9fc4-dd3961d34f89" alt="Euro Bracket Left">
+<img src="https://github.com/ayannair/euros_2024_predictor/assets/148826074/506c4543-5888-45a1-a60a-022bf6b614a7" alt= "Euro Bracket Right"><br>
+
+The final matchup was France vs. Croatia, where France won the tournament and Croatia were runner ups.<br>
+<img src= "https://github.com/ayannair/euros_2024_predictor/assets/148826074/6d30becb-fc98-4c0c-b50d-7e634074b3eb" alt="Euro Bracket Final">
+</p>
+
