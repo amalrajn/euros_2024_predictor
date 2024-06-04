@@ -2,16 +2,16 @@
 
 The output in euroml_stuff_final.ipynb is extremely messy, so this read me file serves to provide our findings in a streamlined format.
 
-**Basic Stats:**
+<p>**Basic Stats:**
 Mean Absolute Error: 1.6666000000000025 <br>
 Mean Squared Error: 3.528233400000012 <br>
-R-squared: 0.8860036251550865 <br>
+R-squared: 0.8860036251550865 <br> </p>
 
-**Group Standings** (teams are sorted by standing in the list)
+<p>**Group Standings** (teams are sorted by standing in the list)<br>
 Group A: ['Switzerland', 'Germany', 'Hungary', 'Scotland'] <br>
 Group B: ['Croatia', 'Spain', 'Italy', 'Albania'] <br>
 Group C: ['England', 'Denmark', 'Serbia', 'Slovenia'] <br>
 Group D: ['France', 'Poland', 'Netherlands', 'Austria'] <br>
 Group E: ['Belgium', 'Ukraine', 'Slovakia', 'Romania'] <br>
-Group F: ['Portugal', 'Czech Republic', 'Türkiye', 'Georgia'] <br>
+Group F: ['Portugal', 'Czech Republic', 'Türkiye', 'Georgia'] <br> </p>
 
